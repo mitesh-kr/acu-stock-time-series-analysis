@@ -66,10 +66,7 @@ time-series-analysis-acme-united/
 │   ├── ets_forecast.png            # ETS forecast plot
 │   └── forecast_comparison.png     # Comparison of forecasts
 └── results/                        # Directory for analysis results
-    ├── arima_model_summary.txt     # ARIMA model summary
-    ├── ets_model_summary.txt       # ETS model summary
-    ├── accuracy_comparison.csv     # Comparison of accuracy metrics
-    └── cross_validation_results.csv# Cross-validation results
+    ├── Report.pdf
 ```
 
 ## Requirements
