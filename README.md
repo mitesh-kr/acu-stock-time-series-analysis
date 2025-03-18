@@ -2,6 +2,9 @@
 
 This repository contains a time series analysis of Acme United Corporation stock (ACU) for a 4-year period from October 21, 2020, to October 20, 2024. The analysis compares the performance of ARIMA and ETS forecasting models.
 
+## [Google Colab Link acme-united-analysis-script](https://colab.research.google.com/drive/13X8sq0OkSEYV3rtssGYOxhpls2JU_aC-?usp=sharing)
+## [Google Colab Link analysis-functions](https://colab.research.google.com/drive/1BXWtkF7HCvQFvDciBT9m6erOCQ6axcEx?usp=sharing)
+
 ## Overview
 
 This project was completed as an assignment for the Time Series Analysis course at IIT Jodhpur. It focuses on analyzing and forecasting the closing prices of Acme United Corporation stock using both ARIMA and ETS models.
