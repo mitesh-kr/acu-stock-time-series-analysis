@@ -1,0 +1,34 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Data files
+*.rds
+*.Rdata
+*.RData
+*.RDATA
+
+# Output files
+*.html
+*.pdf
+*.docx
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.bak
+
+# Log files
+*.log
+
+# RStudio project files
+*.Rproj
+
+# Authentication files
+.httr-oauth
